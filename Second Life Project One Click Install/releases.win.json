@@ -1,0 +1,13 @@
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeProjectOne-click",
+      "Version": "26.1.0",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectOne-click-26.1.0-full.nupkg",
+      "SHA1": "C828A581C9D40C674F603BD7AFB2FE9E154B391D",
+      "SHA256": "570F09092174D3B0377EA08E175DFE900C71DDC6591BBF511984C831219D4A8E",
+      "Size": 329219376
+    }
+  ]
+}

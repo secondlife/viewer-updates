@@ -1,0 +1,14 @@
+[
+  {
+    "RelativeFileName": "SecondLifeProjectOne-click-26.1.0-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "SecondLifeProjectOne-click-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "SecondLifeProjectOne-click-win-Portable.zip",
+    "Type": "Portable"
+  }
+]
