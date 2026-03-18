@@ -1,1 +1,22 @@
-{"Assets":[{"PackageId":"SecondLifeViewer","Version":"26.1.1-23221757505","Type":"Full","FileName":"https://github.com/secondlife/viewer/releases/download/Second_Life_Release%236227691c-2026.1.1/SecondLifeViewer-26.1.1-23221757505-full.nupkg","SHA1":"0DA25D41CC4E226E838E061AB336D48B612C1ABD","SHA256":"C8808275AFDD6AE9338AAD63EC8F63347DE64D870947117A4BD2ED2E49647085","Size":280633930}]}
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.1.1-23221757505",
+      "Type": "Full",
+      "FileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%236227691c-2026.1.1/SecondLifeViewer-26.1.1-23221757505-full.nupkg",
+      "SHA1": "0DA25D41CC4E226E838E061AB336D48B612C1ABD",
+      "SHA256": "C8808275AFDD6AE9338AAD63EC8F63347DE64D870947117A4BD2ED2E49647085",
+      "Size": 280633930
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.1.1-23232475150",
+      "Type": "Full",
+      "FileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%238bac2181-2026.1.1/SecondLifeViewer-26.1.1-23232475150-full.nupkg",
+      "SHA1": "CDA6F89C7B48E131D7919178C00898581F22F631",
+      "SHA256": "790A03242407CD6A93B3535756D960F0C8E414B35CEB7613B1D48591ED3F3D66",
+      "Size": 280633914
+    }
+  ]
+}

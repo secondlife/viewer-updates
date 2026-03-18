@@ -1,1 +1,14 @@
-[{"RelativeFileName":"SecondLifeViewer-win-Setup.exe","Type":"Installer"},{"RelativeFileName":"SecondLifeViewer-26.1.1-23221757505-full.nupkg","Type":"Full"},{"RelativeFileName":"SecondLifeViewer-win-Portable.zip","Type":"Portable"}]
+[
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%238bac2181-2026.1.1/SecondLifeViewer-26.1.1-23232475150-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%238bac2181-2026.1.1/SecondLifeViewer-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%238bac2181-2026.1.1/SecondLifeViewer-win-Portable.zip",
+    "Type": "Portable"
+  }
+]
