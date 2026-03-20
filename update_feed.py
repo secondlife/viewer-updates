@@ -106,6 +106,27 @@ def rewrite_assets_json(assets_json, tag, base_url, github_url):
     return assets_json
 
 
+def merge_assets(existing_path, new_assets):
+    """Merge new entries into an existing assets.*.json file (plain array).
+    Deduplicates by RelativeFileName."""
+    if os.path.exists(existing_path):
+        with open(existing_path, 'r') as f:
+            existing = json.load(f)
+    else:
+        existing = []
+
+    existing_filenames = {e["RelativeFileName"] for e in existing}
+
+    for entry in new_assets:
+        if entry["RelativeFileName"] not in existing_filenames:
+            existing.append(entry)
+            print(f"  Added asset entry: {entry['RelativeFileName']}")
+        else:
+            print(f"  Skipping duplicate asset: {entry['RelativeFileName']}")
+
+    return existing
+
+
 def merge_releases(existing_path, new_releases):
     """Merge new asset entries into an existing releases.*.json file.
     Appends new versions, avoids duplicates by Version+Type."""
@@ -193,10 +214,11 @@ def process_platform(tag, feed_dir, platform, base_url, github_url, releases_suf
         json.dump(merged_releases, f, indent=2)
     print(f"  Wrote {releases_path}")
 
-    # Replace assets JSON (Velopack uses this to find downloadable files)
+    # Merge assets JSON (Velopack uses this to find downloadable files)
     assets_path = os.path.join(feed_dir, f"assets.{platform}.json")
+    merged_assets = merge_assets(assets_path, new_assets)
     with open(assets_path, 'w') as f:
-        json.dump(new_assets, f, indent=2)
+        json.dump(merged_assets, f, indent=2)
     print(f"  Wrote {assets_path}")
 
     # Append RELEASES line
