@@ -58,5 +58,17 @@
   {
     "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%238f1bca1d-2026.1.1/SecondLifeViewer-win-Portable.zip",
     "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2337f62d80-2026.1.1/SecondLifeViewer-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2337f62d80-2026.1.1/SecondLifeViewer-win-Portable.zip",
+    "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2337f62d80-2026.1.1/SecondLifeViewer-26.1.1-23565164473-full.nupkg",
+    "Type": "Full"
   }
 ]
