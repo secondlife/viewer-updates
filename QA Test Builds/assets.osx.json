@@ -54,5 +54,13 @@
   {
     "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%235fcf5a4c-2026.1.1/SecondLifeViewer-26.1.1-23568949226-osx-full.nupkg",
     "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2382a05323-2026.1.1/SecondLifeViewer-osx-Portable.zip",
+    "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2382a05323-2026.1.1/SecondLifeViewer-26.1.1-23614342438-osx-full.nupkg",
+    "Type": "Full"
   }
 ]
