@@ -10,5 +10,17 @@
   {
     "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%236a22d011-100.0.0/SecondLifeViewer-win-Portable.zip",
     "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2341aa022c-QADummy/SecondLifeViewer-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2341aa022c-QADummy/SecondLifeViewer-100.0.0-23656206451-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://github.com/secondlife/viewer/releases/download/Second_Life_Release%2341aa022c-QADummy/SecondLifeViewer-win-Portable.zip",
+    "Type": "Portable"
   }
 ]
