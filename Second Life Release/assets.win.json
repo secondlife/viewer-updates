@@ -1,0 +1,14 @@
+[
+  {
+    "RelativeFileName": "SecondLifeViewer-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "SecondLifeViewer-win-Portable.zip",
+    "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "SecondLifeViewer-26.1.1-23665759977-full.nupkg",
+    "Type": "Full"
+  }
+]

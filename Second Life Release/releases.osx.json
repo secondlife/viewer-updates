@@ -1,0 +1,13 @@
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.1.1-23665759977",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.1.1-23665759977-osx-full.nupkg",
+      "SHA1": "66CBB7CF1CC369F4EAB48C721FAC534079236CFF",
+      "SHA256": "5AB746FB04DFC6329EC03283DE984196C865222E334B166EB1994D202F5CE9B0",
+      "Size": 400681262
+    }
+  ]
+}
