@@ -1,10 +1,10 @@
 [
   {
-    "RelativeFileName": "SecondLifeViewer-osx-Portable.zip",
-    "Type": "Portable"
+    "RelativeFileName": "SecondLifeViewer-26.1.1-23806384790-osx-full.nupkg",
+    "Type": "Full"
   },
   {
-    "RelativeFileName": "SecondLifeViewer-26.1.1-23665759977-osx-full.nupkg",
-    "Type": "Full"
+    "RelativeFileName": "SecondLifeViewer-osx-Portable.zip",
+    "Type": "Portable"
   }
 ]
