@@ -4,6 +4,10 @@
     "Type": "Full"
   },
   {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25021396775-osx-full.nupkg",
+    "Type": "Full"
+  },
+  {
     "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-osx-Portable.zip",
     "Type": "Portable"
   }
