@@ -4,15 +4,19 @@
     "Type": "Full"
   },
   {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25021396775-full.nupkg",
+    "Type": "Full"
+  },
+  {
     "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-win-Setup.exe",
     "Type": "Installer"
   },
   {
-    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-win-Portable.zip",
-    "Type": "Portable"
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25386466510-full.nupkg",
+    "Type": "Full"
   },
   {
-    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25021396775-full.nupkg",
-    "Type": "Full"
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-win-Portable.zip",
+    "Type": "Portable"
   }
 ]
