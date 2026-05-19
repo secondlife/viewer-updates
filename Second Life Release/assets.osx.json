@@ -6,5 +6,21 @@
   {
     "RelativeFileName": "SecondLifeViewer-osx-Portable.zip",
     "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-24254827122-osx-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25021396775-osx-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-osx-Portable.zip",
+    "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.2.0-25386466510-osx-full.nupkg",
+    "Type": "Full"
   }
 ]
