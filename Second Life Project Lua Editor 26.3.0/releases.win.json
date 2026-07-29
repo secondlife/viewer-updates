@@ -1,0 +1,13 @@
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeProjectLuaEditor",
+      "Version": "26.3.0-30154945611",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-30154945611-full.nupkg",
+      "SHA1": "030FCC2F81B3BAF40B8CC3A0132BEC53D187BC1A",
+      "SHA256": "A7AB4CF8B2513E288DD4388F6A21D62FDD7F90C9A22134E2AE9DF0AF9F5D2810",
+      "Size": 281214373
+    }
+  ]
+}
