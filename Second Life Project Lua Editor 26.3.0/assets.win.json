@@ -4,11 +4,15 @@
     "Type": "Full"
   },
   {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-win-Portable.zip",
+    "Type": "Portable"
+  },
+  {
     "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-win-Setup.exe",
     "Type": "Installer"
   },
   {
-    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-win-Portable.zip",
-    "Type": "Portable"
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-32302693173-full.nupkg",
+    "Type": "Full"
   }
 ]

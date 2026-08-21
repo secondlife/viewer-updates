@@ -8,6 +8,15 @@
       "SHA1": "2EEB851E8FDF5BFA50E1819D260DC73DBDF9DA9D",
       "SHA256": "6C5C8ADE74F93573E760ACEDB3CDFEF459C1BC3B71342DD6FCBC7BFF051B3E01",
       "Size": 398282311
+    },
+    {
+      "PackageId": "SecondLifeProjectLuaEditor",
+      "Version": "26.3.0-32302693173",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-32302693173-osx-full.nupkg",
+      "SHA1": "BECF05623759D356EE98382A832DB1B464FE1580",
+      "SHA256": "1CFDFD001FC5CA0B0C85E519BA007C33B48CA87546354AA49945AB36F0D9A83F",
+      "Size": 398607263
     }
   ]
 }
