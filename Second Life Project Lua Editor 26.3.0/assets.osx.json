@@ -1,10 +1,14 @@
 [
   {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-30154945611-osx-full.nupkg",
+    "Type": "Full"
+  },
+  {
     "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-osx-Portable.zip",
     "Type": "Portable"
   },
   {
-    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-30154945611-osx-full.nupkg",
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectLuaEditor-26.3.0-32302693173-osx-full.nupkg",
     "Type": "Full"
   }
 ]
