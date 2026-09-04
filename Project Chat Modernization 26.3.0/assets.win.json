@@ -1,0 +1,14 @@
+[
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectChat-modernization-win-Portable.zip",
+    "Type": "Portable"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectChat-modernization-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectChat-modernization-26.3.0-33643480083-full.nupkg",
+    "Type": "Full"
+  }
+]
