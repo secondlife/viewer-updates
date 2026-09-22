@@ -8,6 +8,15 @@
       "SHA1": "CF0CB9A17BCD6D05391ADED91678BAC470B3F59D",
       "SHA256": "CC6EDCB1191112B1A1B8051AC6C976F23108F2B1F36CB57F204C257DFFF02EFD",
       "Size": 281570184
+    },
+    {
+      "PackageId": "SecondLifeProjectChat-modernization",
+      "Version": "26.3.0-35248298254",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectChat-modernization-26.3.0-35248298254-full.nupkg",
+      "SHA1": "5B426B787DE7D02F375F11597C27349853F4CD68",
+      "SHA256": "FEEF4575AA1748CCAB96E2E4AD8137CEAAA7A1B1A33412644FD7BF849C078301",
+      "Size": 281581801
     }
   ]
 }
