@@ -1,0 +1,13 @@
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeProjectGame-control",
+      "Version": "26.4.0-35904126261",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectGame-control-26.4.0-35904126261-osx-full.nupkg",
+      "SHA1": "2510EBEDE23CBF2FB420A928C537F66560FC2E72",
+      "SHA256": "74FC8350FA6D4B35E0FEED44C553231B88D7587615DA2CD99EEB5A2EBAE24EB8",
+      "Size": 400903560
+    }
+  ]
+}
