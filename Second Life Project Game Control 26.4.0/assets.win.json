@@ -1,0 +1,14 @@
+[
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectGame-control-win-Setup.exe",
+    "Type": "Installer"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectGame-control-26.4.0-35904126261-full.nupkg",
+    "Type": "Full"
+  },
+  {
+    "RelativeFileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectGame-control-win-Portable.zip",
+    "Type": "Portable"
+  }
+]
