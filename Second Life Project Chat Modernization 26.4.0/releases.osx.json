@@ -1,0 +1,13 @@
+{
+  "Assets": [
+    {
+      "PackageId": "SecondLifeProjectChat-modernization",
+      "Version": "26.4.0-37534240431",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeProjectChat-modernization-26.4.0-37534240431-osx-full.nupkg",
+      "SHA1": "9185F432ED50076F34C1431C0BA0FC424D2D1709",
+      "SHA256": "B7571AF83E3CED3484FB2CE5830837DF624BA99378F3B5875F252C8B3DC6EB25",
+      "Size": 398965241
+    }
+  ]
+}
