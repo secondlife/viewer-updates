@@ -8,6 +8,15 @@
       "SHA1": "2568B75F650EE3D1FBEC9E9B79A560EFAB9EE288",
       "SHA256": "D4609D2A289FD081C034B42D220D575EB19C3192BC9636B8F32879054ABEC200",
       "Size": 399066991
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.5.0-39687650264",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.5.0-39687650264-osx-full.nupkg",
+      "SHA1": "2434CD1B145A7C517F810BD63103FEDF624BC5A6",
+      "SHA256": "48225FD0C6A0A2BDB0A6430FFD732340EF62328F3006E5FF21FD5AACB9F4E5C7",
+      "Size": 401446965
     }
   ]
 }
