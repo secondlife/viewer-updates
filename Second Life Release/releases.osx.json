@@ -98,6 +98,42 @@
       "SHA1": "EAB319A5F9C7530620F7D3B8E6ED43BC65C9EDB4",
       "SHA256": "68A51AE7A024CBB8671AA639BA36211C24C0AF7E634B60A38DCD1A5F4C5CE084",
       "Size": 398758495
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.5.0-38448248489",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.5.0-38448248489-osx-full.nupkg",
+      "SHA1": "2568B75F650EE3D1FBEC9E9B79A560EFAB9EE288",
+      "SHA256": "D4609D2A289FD081C034B42D220D575EB19C3192BC9636B8F32879054ABEC200",
+      "Size": 399066991
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.5.0-39687650264",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.5.0-39687650264-osx-full.nupkg",
+      "SHA1": "2434CD1B145A7C517F810BD63103FEDF624BC5A6",
+      "SHA256": "48225FD0C6A0A2BDB0A6430FFD732340EF62328F3006E5FF21FD5AACB9F4E5C7",
+      "Size": 401446965
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.5.0-40714792196",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.5.0-40714792196-osx-full.nupkg",
+      "SHA1": "CD067820191CF654B1A31FC304CA2B832E6A714E",
+      "SHA256": "9F3B762557C77475E00EE83B3FE96FDC6EF355D1F3061B611FD117F82C51015A",
+      "Size": 401443347
+    },
+    {
+      "PackageId": "SecondLifeViewer",
+      "Version": "26.5.0-42122621216",
+      "Type": "Full",
+      "FileName": "https://viewer-download.secondlife.com/Viewer_26/SecondLifeViewer-26.5.0-42122621216-osx-full.nupkg",
+      "SHA1": "33F0F1BE26C77F592CFF7DCE69D47E2175E5605E",
+      "SHA256": "6BCB7F849375DF301A3BC70AD5E5CBFFDD378B6197EFAF64DE081B84E527779E",
+      "Size": 401459250
     }
   ]
 }
